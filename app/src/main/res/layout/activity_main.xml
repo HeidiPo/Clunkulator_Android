@@ -216,9 +216,9 @@
             android:layout_alignParentRight="true"
             android:layout_below="@+id/btn_Sub"
             android:layout_toRightOf="@+id/btn_dec"
-            android:background="@color/shellPink"
+            android:background="@color/plumPurple"
             android:text="="
-            android:textColor="#653460"
+            android:textColor="@color/shellPink"
             android:textSize="55sp" />
 
         <Button
@@ -241,7 +241,7 @@
             android:layout_alignParentStart="true"
             android:layout_below="@+id/edText1"
             android:layout_marginTop="10dp"
-            android:background="@color/shellPink"
+            android:background="@color/shellAccent"
             android:text="C"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -278,7 +278,7 @@
             android:layout_alignParentBottom="true"
             android:layout_below="@+id/btn_7"
             android:layout_toLeftOf="@+id/btn_0"
-            android:background="@color/shellPink"
+            android:background="@color/shellAccent"
             android:text="+/-"
             android:textColor="#653460"
             android:textSize="50sp" />
