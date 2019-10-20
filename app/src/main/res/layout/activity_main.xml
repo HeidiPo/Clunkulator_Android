@@ -30,7 +30,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/btn_clr"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="1"
             android:textSize="55sp" />
@@ -43,7 +43,7 @@
             android:layout_below="@+id/btn_8"
             android:layout_toEndOf="@+id/btn_7"
             android:layout_toRightOf="@+id/btn_7"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="0"
             android:textSize="55sp" />
@@ -54,7 +54,7 @@
             android:layout_height="100dp"
             android:layout_below="@+id/btn_6"
             android:layout_toRightOf="@+id/btn_5"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="9"
             android:textSize="55sp" />
@@ -66,7 +66,7 @@
             android:layout_below="@+id/btn_5"
             android:layout_toEndOf="@+id/btn_7"
             android:layout_toRightOf="@+id/btn_7"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="8"
             android:textSize="55sp" />
@@ -78,7 +78,7 @@
             android:layout_alignLeft="@+id/btn_4"
             android:layout_alignStart="@+id/btn_4"
             android:layout_below="@+id/btn_4"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="7"
             android:textSize="55sp" />
@@ -90,7 +90,7 @@
             android:layout_alignBaseline="@+id/btn_5"
             android:layout_alignBottom="@+id/btn_5"
             android:layout_toRightOf="@+id/btn_5"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="6"
             android:textSize="55sp" />
@@ -102,7 +102,7 @@
             android:layout_below="@+id/btn_2"
             android:layout_toEndOf="@+id/btn_4"
             android:layout_toRightOf="@+id/btn_4"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="5"
             android:textSize="55sp" />
@@ -114,7 +114,7 @@
             android:layout_alignLeft="@+id/btn_1"
             android:layout_alignStart="@+id/btn_1"
             android:layout_below="@+id/btn_1"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="4"
             android:textSize="55sp" />
@@ -126,7 +126,7 @@
             android:layout_alignBaseline="@+id/btn_2"
             android:layout_alignBottom="@+id/btn_2"
             android:layout_toRightOf="@+id/btn_2"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="3"
             android:textSize="55sp" />
@@ -139,7 +139,7 @@
             android:layout_alignBottom="@+id/btn_1"
             android:layout_toEndOf="@+id/btn_1"
             android:layout_toRightOf="@+id/btn_1"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="2"
             android:textSize="55sp" />
@@ -150,7 +150,7 @@
             android:layout_height="100dp"
             android:layout_below="@+id/btn_Div"
             android:layout_alignParentRight="true"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:layout_toRightOf="@+id/btn_6"
             android:text="+"
             android:textColor="#653460"
@@ -164,7 +164,7 @@
             android:layout_alignParentRight="true"
             android:layout_toRightOf="@+id/btn_9"
             android:layout_below="@+id/btn_Add"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="-"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -179,7 +179,7 @@
             android:layout_marginLeft="99dp"
             android:layout_marginTop="10dp"
             android:layout_toRightOf="@+id/btn_lParen"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="*"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -192,7 +192,7 @@
             android:layout_alignParentRight="true"
             android:layout_below="@+id/btn_Mul"
             android:layout_toRightOf="@+id/btn_3"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="/"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -220,7 +220,7 @@
             android:layout_alignParentRight="true"
             android:layout_below="@+id/btn_9"
             android:layout_toRightOf="@+id/btn_dec"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="="
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -232,7 +232,7 @@
             android:layout_alignParentBottom="true"
             android:layout_below="@+id/btn_9"
             android:layout_toRightOf="@+id/btn_0"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:textColor="#653460"
             android:text="."
             android:textSize="55sp" />
@@ -245,7 +245,7 @@
             android:layout_alignParentStart="true"
             android:layout_below="@+id/edText1"
             android:layout_marginTop="10dp"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="C"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -257,7 +257,7 @@
             android:layout_below="@+id/edText1"
             android:layout_toRightOf="@+id/btn_clr"
             android:layout_marginTop="10dp"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="("
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -269,7 +269,7 @@
             android:layout_below="@+id/edText1"
             android:layout_toRightOf="@+id/btn_lParen"
             android:layout_marginTop="10dp"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text=")"
             android:textColor="#653460"
             android:textSize="55sp" />
@@ -282,7 +282,7 @@
             android:layout_alignParentBottom="true"
             android:layout_below="@+id/btn_7"
             android:layout_toLeftOf="@+id/btn_0"
-            android:background="<F3E1F1>"
+            android:background="@color/shellPink"
             android:text="+/-"
             android:textColor="#653460"
             android:textSize="50sp" />
