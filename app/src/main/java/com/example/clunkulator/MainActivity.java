@@ -13,10 +13,10 @@ public class MainActivity extends AppCompatActivity {
     Button btn_1, btn_2, btn_3, btn_4, btn_5, btn_6, btn_7, btn_8,
             btn_9, btn_0, btn_Add, btn_Sub, btn_Mul, btn_Div, btn_eq,
             btn_clr, btn_lParen, btn_rParen, btn_PosNeg,
-            btn_decimal;
+            btn_dec;
 
     float[] floatNums = new float [] {1, 2};
-    floatNums = null;
+    //floatNums = null;
 
     public float[] getFloatNums() {
         return floatNums;
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         btn_lParen = (Button) findViewById(R.id.btn_lParen);
         btn_rParen = (Button) findViewById(R.id.btn_rParen);
         btn_PosNeg = (Button) findViewById(R.id.btn_PosNeg);
-        btn_decimal = (Button) findViewById(R.id.btn_decimal);
+        btn_dec = (Button) findViewById(R.id.btn_dec);
         display = (EditText) findViewById(R.id.edText1);
 
     }
