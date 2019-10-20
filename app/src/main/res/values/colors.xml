@@ -4,5 +4,6 @@
     <color name="colorPrimaryDark">#3c1f39</color>
     <color name="colorAccent">#D81B60</color>
     <color name="shellPink">#F3E1F1</color>
+    <color name="shellAccent">#E4BDE0</color>
     <color name="plumPurple">#653460</color>
 </resources>
